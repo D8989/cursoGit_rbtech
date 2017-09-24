@@ -2,6 +2,7 @@
 
 int main(){
 	
-	return 0;
+//editado por guilherme paulista cruz em 24/07	
+return 0;
 }
 	
